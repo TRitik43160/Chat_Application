@@ -8,7 +8,7 @@ Chat Application made using Typescript
 
 # General info:
 <br>
-A Chat Application used for communication. Three different users are used.these users are stored inside a block and they can communicate with each other with no problem. The purpose of this website is to provide   user friendly communication interface.
+A Chat Application used for communication. Three different users are used.these users are stored inside a block and they can communicate with each other with no problem.Classes and objects are used insde typescript.The typescript coding  is made as short as possible. The purpose of this website is to provide   user friendly communication interface.
 
 # Screenshot:
  
